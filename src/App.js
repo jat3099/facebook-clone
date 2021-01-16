@@ -6,7 +6,6 @@ import Header from './Header.js';
 function App() {
   return (
     <div className="App">
-      <h1>Building facebook clone</h1>
 
       {/* Header */}
       <Header/>
